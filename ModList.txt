@@ -1,2 +1,2 @@
-SCP:SL Blackout
-SCP:SL Dust 2
+Blackout
+Dust 2
