@@ -1,2 +1,2 @@
 Version: 13.0.0
-Link: https://cdn.discordapp.com/attachments/1072384030961573979/1105810321622437949/SCPSL_Mod_Patch.exe
+Link: https://github.com/hopperlopip/SCP-SL-Modding-Community/raw/main/ModPatch.zip
