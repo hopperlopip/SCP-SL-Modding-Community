@@ -1,2 +1,2 @@
-Hi guys! I decided to share my old idea with you all. It is Blackout mod, it means almost every source of light is disabled within the facility. That's all. You can use this mod for challenging yourself or for another reason.
+Hi guys! I decided to share my old idea with you all. It is Blackout mod, it means almost every source of light is disabled within the facility. That's all. You can use this mod for challenging yourself or for another reason.<br><br>Author: LostFire
 Link: https://raw.githubusercontent.com/hopperlopip/SCP-SL-Modding-Community/main/EXAMPLE.zip
