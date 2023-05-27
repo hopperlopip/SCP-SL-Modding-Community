@@ -1,2 +1,2 @@
-Description: Hello everyone. I introduce you the mod that adds de_dust2 map from the CS 1.6 in the SCP:SL. The map itself locates over the Surface zone, namely over Gate B. Mod has only offline version so you have to dowload RadminVPN to play with friend or try to use Dedicated server or "Create Server" button.
+Hello everyone. I introduce you the mod that adds de_dust2 map from the CS 1.6 in the SCP:SL. The map itself locates over the Surface zone, namely over Gate B. Mod has only offline version so you have to dowload RadminVPN to play with friend or try to use Dedicated server or "Create Server" button.
 Link: https://drive.google.com/file/d/1ZGhp9KLbQQpLK3_LLE5pJlMzJr-fOb-V/view?usp=sharing
