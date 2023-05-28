@@ -1,2 +1,2 @@
 Description: TEMPLATE DESCRIPTION
-Link: 
+Link: https://raw.githubusercontent.com/hopperlopip/SCP-SL-Modding-Community/main/Mods/TEMPLATE.txt
