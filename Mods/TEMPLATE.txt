@@ -1,4 +1,4 @@
 Description: TEMPLATE DESCRIPTION
 Link: https://raw.githubusercontent.com/hopperlopip/SCP-SL-Modding-Community/main/Mods/TEMPLATE.txt
-Author: Template
+Author: Template https://raw.githubusercontent.com/hopperlopip/SCP-SL-Modding-Community/main/Mods/TEMPLATE.txt
 GameVersion: 255.255.255
