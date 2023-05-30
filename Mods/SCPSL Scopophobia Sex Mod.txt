@@ -1,0 +1,4 @@
+Description: Mod that changes the cosmetics and audio of the game, made by Half
+Link: 
+Author: Half
+GameVersion: 10.2.2
