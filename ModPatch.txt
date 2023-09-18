@@ -1,2 +1,2 @@
-Version: 13.0.0
+Version: 13.2.1
 Link: https://github.com/hopperlopip/SCP-SL-Modding-Community/raw/main/ModPatch.zip
